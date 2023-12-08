@@ -1,4 +1,4 @@
-Política de Privacidade da Enterprise Seeurl
+Política de Privacidade da Enterprise Enforcement
 
 Última atualização: 08/12/2023
 
@@ -42,4 +42,4 @@ Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que
 
 Ao utilizar nossa aplicação, você concorda com os termos estabelecidos nesta Política de Privacidade.
 
-Obrigado por escolher Enterprise Seeurl!
+Obrigado por escolher Enterprise Enforcement!
