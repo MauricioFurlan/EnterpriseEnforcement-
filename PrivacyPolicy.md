@@ -1,10 +1,10 @@
-Política de Privacidade da Enterprise Enforcement
+Política de Privacidade da Enterprise Seeurl
 
-Última atualização: 06/12/2023
+Última atualização: 08/12/2023
 
 Bem-vindo ao Enterprise Enforcement!
 
-A Enterprise Enforcement, doravante referida como "nós", "nosso", ou "nossa", está comprometida em proteger a privacidade dos usuários de nossos serviços. Esta Política de Privacidade destina-se a informar você, doravante referido como "usuário" ou "você", sobre como coletamos, usamos e compartilhamos suas informações.
+A Enterprise Seeurl, doravante referida como "nós", "nosso", ou "nossa", está comprometida em proteger a privacidade dos usuários de nossos serviços. Esta Política de Privacidade destina-se a informar você, doravante referido como "usuário" ou "você", sobre como coletamos, usamos e compartilhamos suas informações.
 
 1. Informações Coletadas
 
@@ -42,4 +42,4 @@ Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que
 
 Ao utilizar nossa aplicação, você concorda com os termos estabelecidos nesta Política de Privacidade.
 
-Obrigado por escolher Enterprise Enforcement!
+Obrigado por escolher Enterprise Seeurl!
